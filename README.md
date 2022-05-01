@@ -1,2 +1,1 @@
-# tweet-hankaku-template
-:bird::commet:半角ツイートボタン
+iOSで半角ツイートがめんどくさいのでワンタップで入力できるリンク
