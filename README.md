@@ -1,2 +1,2 @@
 # tweet-hankaku-template
-:bird::commnet:半角ツイートボタン
+:bird::commet:半角ツイートボタン
